@@ -2,4 +2,5 @@
 the difference between add, commit and push:
 git add 命令将工作区中的修改提交到暂存区中
 git commit 命令将暂存区中的改动提交到本地仓库中
-git push 命令将本地仓库的分支推送到远程服务器的相同分支上
+git push命令将本地仓库的分支替换到远程服务器的相同分支上
+＃第一次修改newfile.txt文件
